@@ -7,14 +7,23 @@ https://inspirehep.net/literature/2755384
 ----Variables and constants defined in the Mathematica-format file
 
 x: Parton momentum fraction
+
 as: QCD coupling constant
+
 nc: Numbers of colours (nc=3 for QCD)
+
 nf: Number of light quark flavours
+
 CF: Casimir operators of the fundamental representation of the SU(nc) group, CF = (nc^2-1)/(2nc)
+
 CA: Casimir operators of then adjoint representation of the SU(nc) group, CA = nc
+
 TR: Dynkin index, or trace normalization factor, associated with the representation R of the SU(nc). For the fundamental representation of SU(Nc), TF=1/2.
+
 PolyLog[a,z]: Poly logarithms (PLs) where a is the index of the PL and z is the argument.
+
 DELTA[1-z]: Delta function with argument 1-z
+
 PlusD[1-z,a]: Plus distribution [log(1-z)^a/(1-z)]_+.
 
 ---- Functions provided in the Mathematica-format file
